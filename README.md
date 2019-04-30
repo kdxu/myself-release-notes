@@ -11,7 +11,7 @@
 
 - [WebRTC Native Client Momo](https://github.com/shiguredo/momo) 関連
     - [WebRTC Signaling Server Ayame](https://github.com/shiguredo/ayame) 対応させるべく C++ クライアントコードを書き始めています
-- [WebRTC Native Client Momo](https://github.com/shiguredo/ayame) 関連
+- [WebRTC Native Client Ayame](https://github.com/shiguredo/ayame) 関連
 
 ### その他
 
