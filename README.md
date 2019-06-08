@@ -9,7 +9,8 @@
 ### OSS 関連
 
 - [WebRTC Native Client Momo](https://github.com/shiguredo/momo) 関連
-- [WebRTC Native Client Ayame](https://github.com/OpenAyame/ayame) 関連
+- [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
+    - [@open-ayame/ayame-web-sdk](https://www.npmjs.com/package/@open-ayame/ayame-web-sdk) を公開
 - [React Native WebRTC Kit](https://github.com/shiguredo/react-native-webrtc-kit) 関連
 
 
@@ -28,7 +29,7 @@
 
 - [WebRTC Native Client Momo](https://github.com/shiguredo/momo) 関連
     - [WebRTC Signaling Server Ayame](https://github.com/shiguredo/ayame) 対応させるべく C++ クライアントコードを書き始めています
-- [WebRTC Native Client Ayame](https://github.com/OpenAyame/ayame) 関連
+- [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
     - WebSocket の ping/pong を追加しました
     - over WebSocket の Ping/Pong を起動時オプションとして追加しました
     - https://github.com/OpenAyame へリポジトリを移動しました
