@@ -10,7 +10,6 @@
 
 - [WebRTC Native Client Momo](https://github.com/shiguredo/momo) 関連
 - [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
-    - [@open-ayame/ayame-web-sdk](https://www.npmjs.com/package/@open-ayame/ayame-web-sdk) を公開
 - [React Native WebRTC Kit](https://github.com/shiguredo/react-native-webrtc-kit) 関連
 
 
