@@ -1,14 +1,30 @@
 # じぶんリリースノート
 
-## 0.27.5-dev
+## 0.27.6
+
+### 仕事状況
+
+- gRPC / Go / Django / React のサポート業務(非公開)
+
+### OSS 関連
+
+- [WebRTC Native Client Momo](https://github.com/shiguredo/momo) 関連
+- [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
+    - [@open-ayame/ayame-web-sdk](https://www.npmjs.com/package/@open-ayame/ayame-web-sdk) を公開
+- [React Native WebRTC Kit](https://github.com/shiguredo/react-native-webrtc-kit) 関連
+
+
+## 0.27.5
 
 ### 仕事状況
 
 - 引き続き React Native / WebRTC なiOS アプリ開発/ Django による web サービス開発のお仕事(非公開)
 
+
 ### OSS 関連
 
 - [WebRTC Native Client Momo](https://github.com/shiguredo/momo) 関連
+　　- Ayame 対応をしました https://github.com/shiguredo/momo/pull/82/
 - [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
     - [@open-ayame/ayame-web-sdk](https://www.npmjs.com/package/@open-ayame/ayame-web-sdk) を公開
 - [React Native WebRTC Kit](https://github.com/shiguredo/react-native-webrtc-kit) 関連
