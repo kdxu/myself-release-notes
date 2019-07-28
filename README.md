@@ -1,6 +1,6 @@
 # じぶんリリースノート
 
-## 0.27.6
+## 0.27.6-dev
 
 ### 仕事状況
 
@@ -9,9 +9,15 @@
 ### OSS 関連
 
 - [WebRTC Native Client Momo](https://github.com/shiguredo/momo) 関連
+    - [M76 対応](https://github.com/shiguredo/momo/pull/83) を行いました
+    - [ayame の client_id のオプション化](https://github.com/shiguredo/momo/pull/87)を行いました
 - [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
+    - [ayame@19.07.1](https://github.com/OpenAyame/ayame/releases/tag/19.07.1) をリリースしました
+    - [ayame-web-sdk](https://github.com/OpenAyame/ayame-web-sdk) をリリースしました
+    - [OpenAyame プロジェクト](http://ayame.shiguredo.jp/) を開始しました
 - [React Native WebRTC Kit](https://github.com/shiguredo/react-native-webrtc-kit) 関連
-
+    - [Android 対応](https://github.com/shiguredo/react-native-webrtc-kit/pull/14) を行いました
+    - [iOS libwebrtc M75対応](https://github.com/shiguredo/react-native-webrtc-kit/pull/15) を行いました
 
 ## 0.27.5
 
