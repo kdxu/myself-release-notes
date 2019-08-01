@@ -1,6 +1,6 @@
 # じぶんリリースノート
 
-## 0.27.6-dev
+## 0.27.6
 
 ### 仕事状況
 
@@ -14,6 +14,8 @@
 - [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
     - [ayame@19.07.1](https://github.com/OpenAyame/ayame/releases/tag/19.07.1) をリリースしました
     - [ayame-web-sdk](https://github.com/OpenAyame/ayame-web-sdk) をリリースしました
+    - [ayame-react-naive-sample](https://github.com/OpenAyame/ayame-react-native-sample) を公開しました
+       - Android, iOS で WebRTC P2P 接続を行えます
     - [OpenAyame プロジェクト](http://ayame.shiguredo.jp/) を開始しました
 - [React Native WebRTC Kit](https://github.com/shiguredo/react-native-webrtc-kit) 関連
     - [Android 対応](https://github.com/shiguredo/react-native-webrtc-kit/pull/14) を行いました
