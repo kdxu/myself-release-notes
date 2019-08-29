@@ -1,5 +1,20 @@
 # じぶんリリースノート
 
+## 0.27.7-dev
+
+### 仕事状況
+
+- gRPC / Go / Django / React のサポート業務(非公開)
+- gRPC / Go / Django / C++ なお仕事(非公開)
+
+### OSS 関連
+
+- [WebRTC Native Client Momo](https://github.com/shiguredo/momo) 関連
+    - M77 対応
+- [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
+    - 19.8.0
+    - Ayame Lite オープンベータ
+
 ## 0.27.6
 
 ### 仕事状況
