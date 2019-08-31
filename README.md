@@ -10,11 +10,13 @@
 ### OSS 関連
 
 - [WebRTC Native Client Momo](https://github.com/shiguredo/momo) 関連
-    - M77 対応
+    - [M77 対応](https://github.com/shiguredo/momo/pull/93)
 - [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
-    - 19.8.0
-    - Ayame Lite オープンベータ
-
+    - 19.8.0 を公開しました
+      - iceServers 情報を返却するなどの変更を加えました
+    - Ayame Lite オープンベータを公開しました (https://ayame-lite.shiguredo.jp/beta)
+      - TURN サーバの払い出しをする仕組み
+      
 ## 0.27.6
 
 ### 仕事状況
