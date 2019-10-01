@@ -1,5 +1,26 @@
 # じぶんリリースノート
 
+## 0.27.8
+
+### 仕事状況
+
+- gRPC / Go / Django / React / C++ なお仕事(非公開)
+
+
+### OSS 関連
+
+- [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
+    - CircleCI から Github Actions に移行しました
+    - [ayame-web-sdk](https://github.com/OpenAyame/ayame-web-sdk) 19.9.0 を公開しました
+      - Flow -> TypeScript に変更されました
+    - [ayame-android-sdk](https://github.com/OpenAyame/ayame-android-sdk) を公開しました
+      - まだプレリリースです
+      - Kotlin で書かれています
+    - [ayame-ios-sdk](https://github.com/OpenAyame/ayame-ios-sdk) の開発を開始しました
+- [React Native WebRTC Kit](https://github.com/shiguredo/react-native-webrtc-kit) 関連
+    - 3.0.0 リリースのお手伝いをしました
+    - [Android の IceCandidate 周りのバグ修正](https://github.com/shiguredo/react-native-webrtc-kit/commit/badd61a003291d07d70a166e867576810acffc7a) をしました
+
 ## 0.27.7
 
 ### 仕事状況
