@@ -1,5 +1,20 @@
 # じぶんリリースノート
 
+## 0.28.0
+
+### 仕事状況
+
+- gRPC / Go / Django / React / C++ なお仕事(非公開)
+- WEB コンサルのお仕事(非公開)
+
+### OSS 関連
+
+- [WebRTC Signaling Server Ayame](https://github.com/OpenAyame/ayame) 関連
+    - 軽微なバグ対応
+    - 先に room に入室したユーザがわかるよう `isExistUser` フラグを `accept` 時に返す機能の追加
+- [WebRTC Native Client Momo](https://github.com/shiguredo/momo) 関連
+   - Ayame モードの際適切に clientId が生成されない不具合に対応
+
 ## 0.27.9
 
 ### 仕事状況
